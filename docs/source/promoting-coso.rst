@@ -23,7 +23,7 @@ While the custom has become a proud tradition and testament to the community’s
 Promoting Your Account on Other Sites
 ------------
 
-Have you joined us from another platform, but aren’t quite sure how to tell your people where you’ve gone? If so, we have just the thing for you! Download the social media banners to use on Twitter, Facebook, Instagram, or any other social media sites that accept profile photos and headers. If you would like to post a link to your profile on CoSo, activate your `Public Landing Page <https://cosoguide.readthedocs.io/en/latest/getting-started.html#public-landing-page-plp/>`_ (PRO feature) in your preferences to receive your unique profile link.
+Have you joined us from another platform, but aren’t quite sure how to tell your people where you’ve gone? If so, we have just the thing for you! Download the social media banners to use on Twitter, Facebook, Instagram, or any other social media sites that accept profile photos and headers. If you would like to post a link to your profile on CoSo, activate your `Public Landing Page <https://help.counter.social/en/latest/getting-started.html#public-landing-page-plp/>`_ (PRO feature) in your preferences to receive your unique profile link.
 
 **Social Media Banners + Avatars**
 
