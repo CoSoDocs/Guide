@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+CounterSocial User Guide
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This repository contains the CounterSocial user guide,
+hosted via Read the Docs at https://coso-guide.readthedocs.io/
