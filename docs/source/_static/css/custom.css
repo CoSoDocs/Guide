@@ -1,0 +1,154 @@
+@import 'theme.css';       /* for the Read the Docs theme */
+
+
+/*Typography*/
+
+p {font-size: 16px!important;
+    line-height: 28px!important;
+}
+
+a {
+    color: #15588c;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #2b90d9;
+}
+
+a:visited {
+    color: #15588c;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+.rst-content h1 {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 175%;
+}
+
+.rst-content h2 {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+
+/* Sidebar Navigation */
+
+.wy-side-nav-search {
+    background-color: #393f4f;
+}
+
+.wy-nav-side {
+    background-color: #212122;
+}
+
+.wy-nav-top {
+    background: #393f4f!important;
+}
+
+.wy-nav-top a {
+    font-weight: 700;
+    color: #FFFFFF!important;
+    font-size: 125%
+}
+
+
+.wy-side-nav-search {
+    border-radius: 0px;
+    font-size: 16px;
+}
+
+.wy-menu-vertical a {
+    font-size: 95%;
+    color: #efefef;
+}
+
+/* Notification Boxes */
+
+.rst-content .attention {
+    background-color: #FFFFFF;
+    border: 3px solid #cea42a;
+}
+
+.rst-content .attention .admonition-title {
+    background: none!important;
+    display: inline;
+    font-size: 20px!important;
+    color: #cea42a;
+}
+
+.rst-content .attention p:last-child {
+    line-height: 20px!important;
+}
+
+.rst-content .note {
+    background-color: #FFFFFF;
+    border: 3px solid #2b90d9;
+}
+
+.rst-content .note .admonition-title {
+    background: none!important;
+    display: inline;
+    font-size: 20px!important;
+    color: #2b90d9;
+}
+
+.rst-content .note p:last-child {
+    line-height: 20px!important;
+}
+
+ .rst-content .warning {
+    background-color: #FFFFFF;
+    border: 3px solid #810100;
+}
+
+.rst-content .warning .admonition-title {
+    background: none!important;
+    display: inline;
+    font-size: 20px!important;
+    color: #810100;
+}
+
+.rst-content .warning p:last-child {
+    line-height: 20px!important;
+}
+
+.rst-content .tip {
+    background-color: #FFFFFF;
+    border: 3px solid #15588c;
+}
+
+.rst-content .tip .admonition-title {
+    background: none!important;
+    display: inline;
+    font-size: 20px!important;
+    color: #15588c;
+}
+
+.rst-content .tip p:last-child {
+    line-height: 20px!important;
+}
+
+/* Misc */
+
+.rst-versions .rst-current-version {
+    color: #cea42a;
+}
+
+/* Table Styles */
+.rst-content table.docutils thead th, .rst-content table.field-list thead th, .wy-table thead th {
+    font-weight: 400!important;
+    color: #404040!important;
+}
+
+/* Hide "On GitHub" section from versions menu */
+div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(4) {
+    display: none;
+}
