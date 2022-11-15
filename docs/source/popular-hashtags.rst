@@ -3,7 +3,7 @@ Popular Hashtags
 
 Last Updated: November 14, 2022
 
-.. attention:: Special thanks to @RealDDGlover for 5 years of curating, maintaining, and hosting CounterSocial's hashtag list before this resources was created.
+.. note:: Special thanks to @RealDDGlover for 5 years of curating, maintaining, and hosting CounterSocial's hashtag list before this resources was created.
 
 While the CoSo Directory is in development, here is a list of popular hashtags used on CounterSocial. Why are hashtags so important here? Mostly because there’s no algorithm manipulating your feeds at CoSo. Hashtags allow those with similar interests to find your stuff, but they’re also a considerate way to help others filter it out.
 
