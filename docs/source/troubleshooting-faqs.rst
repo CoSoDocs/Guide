@@ -11,7 +11,7 @@ The majority of technical issues can be traced to the following causes:
 #. You have AdBlockers or Shields installed on your browser that are blocking CounterSocial from functioning properly. Be sure to whitelist Counter.Social with any blocking add-ons that you may be using.
 #. You are using a VPN tunnel, TOR node, or proxy to access the site.  
 #. You have an old version of CounterSocial stored in your browser's cache or cookies. Clear your cookies and press Shift + F5 (PC) or CMD + R (Mac) to refresh your browser cache.
-#. You are on an unsupported browser or device. `Click Here <https://cosoguide.readthedocs.io/en/latest/getting-started.html#requirements>`_ for a list of requirements for using CounterSocial. 
+#. You are on an unsupported browser or device. `Click Here <https://help.counter.social/en/latest/getting-started.html#requirements>`_ for a list of requirements for using CounterSocial. 
    
    
 Help & Support
@@ -23,7 +23,7 @@ FAQs
 ------------
 
 **Is there a way to switch CounterSocial to a light background?**
-	**A:** Custom themeing is not available at this time. `Click here <https://cosoguide.readthedocs.io/en/latest/accessibility.html#light-dark-mode>`_ for information about using the Dark Reader extention as a possible solution.
+	**A:** Custom themeing is not available at this time. `Click here <https://help.counter.social/en/latest/accessibility.html#light-dark-mode>`_ for information about using the Dark Reader extention as a possible solution.
 
  |
 **The Desktop version is too busy for me? Is there a way to turn off features?**
@@ -31,7 +31,7 @@ FAQs
 
  |
 **Where are the GIFS?**
-	**A:** CounterSocial does not have a built-in GIF search engine. To post GIFs, save them from your favorite GIF dealer and upload them the same as you would any image or video. Tenor.com, Giphy.com, and Google Image Search are just a few of the many resources for animated content.  `Click here <https://cosoguide.readthedocs.io/en/latest/posting-content.html#attaching-media-files>`_ to learn more about supported file types and instructions on attaching media and files to your posts. 
+	**A:** CounterSocial does not have a built-in GIF search engine. To post GIFs, save them from your favorite GIF dealer and upload them the same as you would any image or video. Tenor.com, Giphy.com, and Google Image Search are just a few of the many resources for animated content.  `Click here <https://help.counter.social/en/latest/posting-content.html#attaching-media-files>`_ to learn more about supported file types and instructions on attaching media and files to your posts. 
 
  |
 **When I upload an image, it's upside down or on its side. How do I fix this?**
@@ -58,7 +58,7 @@ FAQs
 
  |
 **When I upload my image/video/gif, it doesn't attach to the post. What's the problem?**
-	**A:** It's likely you are uploading media over the maximum allowable sizes of 8MB for images and 40MB for audio/video, or are uploading an unsupported file type. `Click Here <https://cosoguide.readthedocs.io/en/latest/posting-content.html#editing-media>`_ to learn more about sharing image and video files. 
+	**A:** It's likely you are uploading media over the maximum allowable sizes of 8MB for images and 40MB for audio/video, or are uploading an unsupported file type. `Click Here <https://help.counter.social/en/latest/posting-content.html#editing-media>`_ to learn more about sharing image and video files. 
 
  |
 **I am missing columns or features from the Desktop version. Where are they?**
