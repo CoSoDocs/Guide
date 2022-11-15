@@ -52,9 +52,9 @@ FAQs
  |
 **When I try to publish my post, the post button doesn't work. What am I doing wrong?**
 	**A:** There are multiple issues that cause this problem. 
-	#. You have exceeded the maximum character count of 500.
-	#. Your post may contain special characters that resemble programming code that hackers use to exploit systems. Check for odd punctionation combinations such as brackets [], currency symbols $, and/or quotations "" and, if found, make some adjustments.
-	#. CounterSocial may be experiencing intermittent issues. If the solutions above are not the issue, refresh the page to try again. 
+ |1. You have exceeded the maximum character count of 500.
+ |2. Your post may contain special characters that resemble programming code that hackers use to exploit systems. Check for odd punctionation combinations such as brackets [], currency symbols $, and/or quotations "" and, if found, make some adjustments.
+ |3. CounterSocial may be experiencing intermittent issues. If the solutions above are not the issue, refresh the page to try again. 
 
  |
 **When I upload my image/video/gif, it doesn't attach to the post. What's the problem?**
