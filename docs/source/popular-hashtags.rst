@@ -9,7 +9,7 @@ While the CoSo Directory is in development, here is a list of popular hashtags u
 
 CounterSocial (CoSo) was originally an instance on the Mastodon network where multiple communities shared a central “Community Firehose.” During this time, CoSo users would often prepend hashtags with #CoSo to differentiate between our community and others. You will find these hashtags are still popular and in use today.   
 
-Related: `How To Pin Hashtags To a Column <https://coso-userguide.readthedocs.io/en/latest/browsing-and-curation.html#add-or-remove-columns>`_ | `How To Filter Hashtags From Your Feeds <https://coso-userguide.readthedocs.io/en/latest/browsing-and-curation.html#content-filters>`_ 
+Related: `How To Pin Hashtags To a Column <https://cosoguide.readthedocs.io/en/latest/browsing-and-curation.html#add-or-remove-columns>`_ | `How To Filter Hashtags From Your Feeds <https://cosoguide.readthedocs.io/en/latest/browsing-and-curation.html#content-filters>`_ 
 
 
 **News & Politics**

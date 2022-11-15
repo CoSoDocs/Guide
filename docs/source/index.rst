@@ -5,6 +5,8 @@ Welcome to the CounterSocial User Guide
 
 No Bots | No Trolls | No Advertising | No Misinformation | No Abuse
 
+Sign up now at https://counter.social
+
 
 Acknowledgments
 --------

@@ -40,7 +40,7 @@ Hashtags
 ------------
 To make your posts more searchable and discoverable by other users, add a hashtag by prepending a keyword with the pound (#) symbol. As you type, you will see suggested hashtags already in use below the post box. CounterSocial is hashtag-driven with many users configuring their feeds to display only desired hashtags and keywords, or by using filters to omit this content from their views.
 
-`Click Here <https://coso-userguide.readthedocs.io/en/latest/popular-hashtags.html>`_ for a list of the most commonly used hashtags.
+`Click Here <https://cosoguide.readthedocs.io/en/latest/popular-hashtags.html>`_ for a list of the most commonly used hashtags.
 
 
 Attaching Media & Files
