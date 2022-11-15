@@ -1,22 +1,32 @@
-Welcome to Lumache's documentation!
+Welcome to the CounterSocial User Guide
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**CounterSocial** is a next-gen social network system built to counter threats found on traditional mainstream platforms including bots, trolls, disinformation campaigns, and foreign influence operations. Launched in 2017 by an American patriot/hacktivist named 'The Jester' (aka th3j35t3r or JΞSŦΞR ✪ ΔCŦUΔL³³º¹), it is the first social network to take an active, zero-tolerance stance against adversarial nations engaged in influence operations by blocking the IP ranges of abusive countries, TOR nodes, VPNs, and proxies. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+No Bots | No Trolls | No Advertising | No Misinformation | No Abuse
 
-.. note::
 
-   This project is under active development.
+Acknowledgments
+--------
+Sincere gratitude and thanks to @CJLavoie, @Amyfb, @Bluesbaby, @Janet, @Minholkin, @Anemone, @Kel, @MrGoat, and @RealDDGlover for volunteering their time, expertise, and wisdom for the creation of this guide, as well as to the entire CoSo community for their enthusiastic support. Most of all, thanks to The Jester for building the sandbox that brought us together. 
 
-Contents
+| 
+| 
+.. attention:: Not finding answers in this guide? Need help? Write a post and include the #help hashtag for support from the community.
+
+
+Table of Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   transparency
+   getting-started
+   posting-content
+   browsing-and-curation
+   accessibility
+   pro-features
+   promoting-coso
+   troubleshooting-faqs
+   popular-hashtags
+   developer-resources
