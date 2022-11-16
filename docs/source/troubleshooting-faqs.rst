@@ -77,7 +77,7 @@ FAQs
 	**A:** It's actually very simple. There isn't one.
 
  |
-**There is a strange audio eminating from CounterSocial that sounds like an emergency scanner and I don't know where it's coming from. Help!**
+**There is a strange audio emanating from CounterSocial that sounds like an emergency scanner and I don't know where it's coming from. Help!**
 	**A:** This sound is likely coming from CoSoCom, CounterSocial's emergency broadcast scanner located at the bottom left corner of the desktop version. On rare occassions, it is set to "play" when you load the page for the first time. If this happens to you, simple click the blue circle on the display (it resembles a "stop" button) to turn it off. 
 
  |

@@ -42,7 +42,7 @@ While your @handle is fixed and unchangeable, you may update your Display Name a
 
 Other than badges and a blue check to denote PRO members, CounterSocial does not grant special status or symbols to individual accounts. Users are free to include symbols in their Display Names and the emoji library is available to all users. You can include country flags, check marks (of any color!;-)) or other symbols as your imagination dictates.
 
- **How to Add an Emjoi to Your Display Name**
+ **How to Add an Emoji to Your Display Name**
 
 #. On the main Coso page, navigate to the Post Box.
 #. Click on the Insert emoji symbol in the upper right corner of the Post Box to reveal the list of system and custom emojis.
