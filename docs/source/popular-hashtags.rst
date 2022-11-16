@@ -62,11 +62,11 @@ Related: `How To Pin Hashtags To a Column <https://cosoguide.readthedocs.io/en/l
 +-------------+----------------+-----------------+
 | CoSoGaming  | MMORPG         | Boardgames      |
 +=============+================+=================+
-| CoSoGaming  | RPG            | Wordle          |
+| Gaming      | RPG            | Wordle          |
 +-------------+----------------+-----------------+
 | CoSoGamers  | TTRPG          | Twitch          |
 +-------------+----------------+-----------------+
-| Gaming      | DnD            | Streamer        |
+| Gamers      | DnD            | Streamer        |
 +-------------+----------------+-----------------+
 | Gamer       | Tabletop       | Twitshtreamer   |
 +-------------+----------------+-----------------+
