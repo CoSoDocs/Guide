@@ -15,7 +15,7 @@ Sign up now at https://counter.social
 | 
 Acknowledgments
 --------
-Sincere gratitude and thanks to @CJLavoie, @Amyfb, @Bluesbaby, @Janet, @Minholkin, @Kel, @MrGoat, and @RealDDGlover for volunteering their time, expertise, and wisdom for the creation of this guide, as well as to the entire CoSo community for their enthusiastic support. Most of all, thanks to The Jester for building the sandbox that brought us together. 
+Sincere gratitude and thanks to @phase, @CJLavoie, @Amyfb, @Bluesbaby, @Janet, @Minholkin, @Kel, @MrGoat, @RealDDGlover, and others for volunteering their time, expertise, and wisdom for the creation of this guide, as well as to the entire CoSo community for their enthusiastic support. Most of all, thanks to The Jester for building the sandbox that brought us together. 
 
 
 | 
