@@ -5,7 +5,9 @@ Last Updated: November 14, 2022.
 
 Requirements
 ------------
-CounterSocial is accessible using all modern web browsers or via the official CounterSocial (CoSo) mobile apps for iPhone and Android devices. iPad users can access the platform via the device’s web browser. The platform is currently unavailable to users located in Russia, China, Iran, Syria, and North Korea, as well as those arriving via VPN, TOR, or proxy.( `Why? <https://counter.social/faq.html>`_ ) Please whitelist Counter.Social or disable any ad blockers, shields, or VPN tunneling through your browser or device.
+CounterSocial is accessible using all modern web browsers or via the official CounterSocial (CoSo) mobile apps for iPhone and Android devices. iPad users can access the platform via the device’s web browser. The platform is currently unavailable to users located in Russia, China, Iran, Syria, and North Korea, as well as those arriving via VPN, TOR, or proxy.( `Why? <https://counter.social/faq.html>`_ ) 
+
+**Please whitelist Counter.Social with ad blockers, shields, or VPN tunnels through your browser or device.**
 
 .. image:: _images/img_requirements.jpg
 
