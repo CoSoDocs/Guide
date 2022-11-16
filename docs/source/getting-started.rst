@@ -75,7 +75,7 @@ After you have set up your personal profile, use the field below the profile ima
 
 Public Landing Page (PLP)
 ^^^^^^^^^^^^^
-Your CoSo profile is private by default. This means that your profile and posts cannot be accessed outside of CoSol and are not indexed by search engines.
+Your CoSo profile is private by default. This means that your profile and posts cannot be accessed outside of CoSo and are not indexed by search engines.
 
 .. image:: _images/img_plpmode.jpg
 
