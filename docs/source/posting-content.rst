@@ -74,7 +74,7 @@ PRO users can utilize *CounterShare*, CoSo’s integrated, secure, ephemeral 500
 
 Editing Media
 ^^^^^^^^^^^^^
-Once attached, hover over the image thumbnail and click the “Change Preview” link to adjust the image preview. Please add a text description for the visually impaired by clicking on the photo where it says “Describe for the visually impaired”. Thes description will appear for users accessing CoSo via a screen reader or other similar technology.
+Once attached, hover over the image thumbnail and click the “Change Preview” link to adjust the image preview. Please add a text description for the visually impaired by clicking on the photo where it says “Describe for the visually impaired”. The description will appear for users accessing CoSo via a screen reader or other similar technology.
 
 If your image, GIF, or video is not safe for work , contains mature, adult or graphic content, or may negatively impact those with post traumatic stress disorder or photosensitivity issues, please click on the eye icon to mark your media as sensitive. To add a content warning to your post, click on the “CW” icon (doing so will also mask any photographs) 
 

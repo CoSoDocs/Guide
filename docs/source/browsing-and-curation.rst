@@ -22,7 +22,7 @@ When you click on any profile name, hashtag, or post, contents will automaticall
 Search
 ------------
 
-The search bar is located between the CounterSocial logo and the post box on the left side of the page or in the navigation row at the top of mobile device apps. The top 10 search results are limited to People and Hashtags and will appear  below the search bar. Full post search is not available. Clicking on any result will open in the last “view” column on the right side of the page or as a single column on mobile devices.
+The search bar is located between the CounterSocial logo and the post box on the left side of the page or in the navigation row at the top of mobile device apps. Enter your query and hit the Enter/Return key on your keyboard to search. On mobile devices, click the "Return" button and then click "Done" after typing your query to close your keyboard. The top 10 results are limited to People and Hashtags and will appear below the search bar. Full post search is not available. Clicking on any result will open in the last “view” column on the right side of the page or as a single column on mobile devices.
 
 Notifications
 ------------
@@ -38,7 +38,7 @@ The header also includes some icons for filtering the type of notifications that
 
 **Mentions** - The ampersand symbol (@) shows posts wherein your @handle was specifically included. This could be replies or new messages calling for your attention.
 
-**Favorites** - The star is for the posts that others (or you) marked as a favorite. It is similar to the “Like” button seen on other platforms, however there is no counting of the number of times a post has been marked as a favorite. This is not a competitive sport.
+**Favorites** - The star icon filters notifications of people that have favorited your posts. It is similar to the “Like” button seen on other platforms, however there is no counting of the number of times a post has been marked as a favorite. This is not a competitive sport. 
 
 **Boosts** - The double headed square arrow BOOSTS an existing post. This mimics other platforms’ “Retweet” or “Share” buttons. Like the star, no counting takes place. Please note that, by design, there is no way to “Quote post.”
 
@@ -112,7 +112,7 @@ Mute & Block Users
 ------------
 On CounterSocial, you are encouraged to mute or block people without hesitation if they are annoying you for any reason. Click the three dots at the bottom on any post and select Mute or Block.
 
-hen Muting, all Notifications from that user are hidden. If you uncheck “Hide Notifications from this user”, any interactions (Likes, Boosts, Comments) still appear in your Notifications column.
+When Muting, all Notifications from that user are hidden. If you uncheck “Hide Notifications from this user”, any interactions (Likes, Boosts, Comments) still appear in your Notifications column.
 
 When Blocking, the blocked account disappears entirely from your experience. You will not see messages from them, and they will no longer see you.
 To unmute or unblock followers, visit the “Mutes” or “Blocks” links found in the right-column Navigation or mobile app menu.
