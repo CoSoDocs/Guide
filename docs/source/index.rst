@@ -14,7 +14,7 @@ Sincere gratitude and thanks to @CJLavoie, @Amyfb, @Bluesbaby, @Janet, @Minholki
 
 | 
 | 
-.. attention:: Not finding answers in this guide? Need help? Write a post and include the #help hashtag for support from the community.
+.. attention:: Not finding answers in this guide? Need help? Write a post and include the #help hashtag for support from the community. Have something to add? Tag any post with #UserGuideUpdates to submit ideas.
 
 
 Table of Contents
