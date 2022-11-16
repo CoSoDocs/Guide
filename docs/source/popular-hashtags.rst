@@ -68,7 +68,7 @@ Related: `How To Pin Hashtags To a Column <https://cosoguide.readthedocs.io/en/l
 +-------------+----------------+-----------------+
 | Gamers      | DnD            | Streamer        |
 +-------------+----------------+-----------------+
-| Gamer       | Tabletop       | Twitshtreamer   |
+| Gamer       | Tabletop       | Twitchstreamer  |
 +-------------+----------------+-----------------+
 | RetroGaming | TabletopGames  | CSI             |
 +-------------+----------------+-----------------+
