@@ -8,15 +8,17 @@ No Bots | No Trolls | No Advertising | No Misinformation | No Abuse
 Sign up now at https://counter.social
 
 
-Acknowledgments
---------
-Sincere gratitude and thanks to @CJLavoie, @Amyfb, @Bluesbaby, @Janet, @Minholkin, @Kel, @MrGoat, and @RealDDGlover for volunteering their time, expertise, and wisdom for the creation of this guide, as well as to the entire CoSo community for their enthusiastic support. Most of all, thanks to The Jester for building the sandbox that brought us together. 
-
-| 
 | 
 .. attention:: Not finding answers in this guide? Need help? Write a post and include the #help hashtag for support from the community. Have something to add? Tag any post with #UserGuideUpdates to submit ideas.
 
 
+| 
+Acknowledgments
+--------
+Sincere gratitude and thanks to @CJLavoie, @Amyfb, @Bluesbaby, @Janet, @Minholkin, @Kel, @MrGoat, and @RealDDGlover for volunteering their time, expertise, and wisdom for the creation of this guide, as well as to the entire CoSo community for their enthusiastic support. Most of all, thanks to The Jester for building the sandbox that brought us together. 
+
+
+| 
 Table of Contents
 --------
 
