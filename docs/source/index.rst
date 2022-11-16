@@ -9,7 +9,7 @@ Sign up now at https://counter.social
 
 
 | 
-.. attention:: Not finding answers in this guide? Need help? Write a post and include the #help hashtag for support from the community. Have something to add? Tag any post with #UserGuideUpdates to submit ideas.
+.. attention:: Not finding answers in this guide? Need help? Write a post and include the **#help** hashtag for support from the community. Have something to add? Tag any post with **#UserGuideUpdate** to submit ideas.
 
 
 | 
