@@ -17,7 +17,7 @@ Creating Your Account
 | Desktop/Browser Version: https://counter.social
 | Mobile App Downloads: https://smarturl.it/countersocialapp
 
-Your username and email are fixed and cannot be changed following account activation. This is a security feature to prevent bots and trolls from manipulating the platform. The ONLY way to change your username is to delete your account and create another account using a new and unique email address. Note that once an account is deleted, all traces of the account are permanently removed and cannot be recovered, even by the administrator. The username cannot be reused as a security precaution.
+Your username is fixed and cannot be changed following account activation. This is a security feature to prevent bots and trolls from manipulating the platform. The ONLY way to change your username is to delete your account and create another account using a new and unique email address. Note that once an account is deleted, all traces of the account are permanently removed and cannot be recovered, even by the administrator. The username cannot be reused as a security precaution.
 
 .. attention:: Following sign-up, you will receive an email from CounterSocial with instructions on activating your account. If you cannot locate that email, you may request a duplicate confirmation email by clicking “Didn’t receive confirmation instructions?” below the login field. 
 
