@@ -6,7 +6,6 @@ Last Updated: November 14, 2022.
 
 Who is The Jester?
 ------------
-.. image:: _images/img_thejester.jpg
 
 The Jester (aka th3j35t3r or JΞSŦΞR ✪ ΔCŦUΔL³³°¹) is a prolific hacktivist and cyber minuteman on a mission to fix social media. After watching our communication systems become corrupted by disinformation, division, foreign influence, and propaganda campaigns, he shifted his focus from the destruction of threats to the creation of a platform designed to counter them. In 2017, he launched CounterSocial. The Jester is listed as one of TIME Magazine’s Most Influential People Online, and his laptop is exhibited in the International Spy Museum in Washington, DC. His alleged escapades are documented in articles and programs by NBC, Homeland Security Today, Gizmodo, Newsweek, Tech Insider, the Larry King Show, and others. Some may have noticed his cameo role in the USA Network TV show *Mr. Robot*.
 
