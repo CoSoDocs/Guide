@@ -7,8 +7,6 @@ PRO vs Basic Subscriptions
 ------------
 CounterSocial is 100% community-funded, primarily through a PRO subscription that unlocks additional tools and features. A PRO subscription is not required to participate and enjoy the core CoSo experience. However, at about the price of a fancy cup of coffee per month, the increased privacy, security, zero spam, and ad-free experience is well worth the price to keep the servers running every month. For now, PRO subscriptions are charged monthly and cannot be paid in advance or gifted to other users.
 
-.. image:: _images/img_provsbasic.jpg
-
 
 How to Upgrade to PRO
 ------------
@@ -59,13 +57,6 @@ COSO Realms is a virtual collaboration platform available to CounterSocial PRO m
 `Click here <https://countersocial.documize.com/s/c2irfhkp0nhtab602ne0/coso-realms>`_ to access the CoSoRealm's User Guide. 
 
 .. attention:: Safari web browser and all iOS devices (iPhone and iPad) are not supported. To access Realms, we recommend using Chrome, Brave, or Edge browsers at this time. Please allow 1-2 minutes for the platform to authenticate your PRO subscription when you log in for the first time.
-
-
-Movie Nights
-^^^^^^^^^^^^
-All PRO users are invited to join us for for Movie Night inside the CoSoRealm’s Movie Theatre. Showings are typically every Friday at 6pm PST / 9pm EST, but the days and times may change.
-
-Follow the @MovieNights account for the upcoming schedule of films including special screenings and events catering to members located in different time zones. You can visit the Movie Night Theatre at https://movienights.counter.social.
 
 
 CoSoCall
