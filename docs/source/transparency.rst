@@ -20,14 +20,7 @@ CounterSocial (CoSo) takes a zero-tolerance stance to hostile nations, bot accou
 
 Privacy, Security & Encryption
 ------------
-CoSo is a security-focused platform with advanced features to protect your privacy. There are no friend-finding tools that scan your contacts, push notifications that track your location, or spammers crawling your feeds to datamine demographic data. CoSo does not ask for or store any personal data on its servers besides the email address used to create your account. By default, privacy settings for new accounts cannot be indexed by search engines or made available outside of the CounterSocial domain unless changed in your account’s preferences and settings. Direct messages (DMs) are encrypted and can only be viewed by the sender and recipient unless reported for abuse.
-
-.. image:: _images/gif_wallofentropyHD.gif
-
-CoSo’s users are silently issued a unique key or token for various functions and services, from encryption to single-sign-on. This token changes every 300 seconds. True randomness is a difficult thing to achieve. For this reason, each CounterSocial user has their own personal Wall of Entropy that is always running and accessible anytime.
-
-`Click here to access your personal Wall of Entropy <https://counter.social/entropy/woeisme.php>`_
-
+CoSo is a security-focused platform with advanced features to protect your privacy. There are no friend-finding tools that scan your contacts, push notifications that track your location, or spammers crawling your feeds to datamine demographic data. CoSo does not ask for or store any personal data on its servers besides the email address used to create your account. All patments are handled by a professional 3rd party payments processor and payment card details are not seen by CounterSocial or stored on CounterSocial infrastructure. By default, privacy settings for new accounts cannot be indexed by search engines, spiders, crawlers and archivers or made available outside of the CounterSocial domain unless changed in your account’s preferences and settings. Direct messages (DMs) are at-rest encrypted.
 
 
 The Team
