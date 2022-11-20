@@ -22,7 +22,7 @@ Would you like to make the background white instead of black? Unfortunately, thi
 **DarkReader Browser Extention**
 
 | 1. Install the DarkReader extenton for `Chrome <https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>`_
-| 2. Using Dark Reader's "Light Mode" preset, start by adjusting the settings to +45 brightness, +30 contrast, and +50% sepia and adjust to your liking.
+| 2. Using Dark Reader's "Light Mode" preset, start by adjusting the settings to +45 brightness, +30 contrast, and +50% sepia and adjust to your liking. `Click here <https://counter.social/@MrGoat/109246820688691888>`_ for more DarkReader configuration tips from @MrGoat. 
 
 
 PreCog Reading Mode (Beta)
