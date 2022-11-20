@@ -10,14 +10,17 @@ Light/Dark Mode
 Would you like to make the background white instead of black? Unfortunately, this can’t yet be done within CounterSocial, but there are multiple options for Chrome, Brave, and Firefox users via the 3rd party browser extensions below. There is no light mode feature for the mobile app at this time. 
 
 **CounterSocial - Light Mode Theme Using Stylish**
+
 | 1. Install the Stylish Browser Extension for `Chrome <https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/stylish/>`_
 | 2. Visit the `Counter Social - Light Mode Theme <https://userstyles.org/styles/254892/countersocial-light-mode>`_ page to install the theme or search "CounterSocial" in the Stylish directory for other options.
 
 **CounterSocial - Light Theme Using Stylus**
+
 | 1. Install the Stylus Browser Extension for `Chrome <https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/styl-us/>`_
 | 2. Visit https://sethharrington.me/counter-social-light-theme/ for theme installation instructions.
 
 **DarkReader Browser Extention**
+
 | 1. Install the DarkReader extenton for `Chrome <https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>`_
 | 2. Using Dark Reader's "Light Mode" preset, start by adjusting the settings to +45 brightness, +30 contrast, and +50% sepia and adjust to your liking.
 
