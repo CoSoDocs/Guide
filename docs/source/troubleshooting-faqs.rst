@@ -23,7 +23,7 @@ FAQs
 ------------
 
 **Is there a way to switch CounterSocial to a light background?**
-	**A:** Custom themeing is not available at this time. `Click here <https://help.counter.social/en/latest/accessibility.html#light-dark-mode>`_ for information about using the Dark Reader extention as a possible solution.
+	**A:** An internal theme switcher is not available at this time, however there are a few options for Light Mode using various browser extentions or accessibility mods through your mobile device. `Click here <https://help.counter.social/en/latest/accessibility.html#light-dark-mode>`_ for information about options.
 
  |
 **The Desktop version is too busy for me? Is there a way to turn off features?**
