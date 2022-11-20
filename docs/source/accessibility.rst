@@ -12,7 +12,7 @@ Would you like to make the background white instead of black? Unfortunately, thi
 **CounterSocial - Light Mode Theme Using Stylish**
 
 | 1. Install the Stylish Browser Extension for `Chrome <https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/stylish/>`_
-| 2. Visit the `Counter Social - Light Mode Theme <https://userstyles.org/styles/254892/countersocial-light-mode>`_ page to install the theme or search "CounterSocial" in the Stylish directory for other options.
+| 2. Visit the `Counter Social - Light Mode <https://userstyles.org/styles/254892/countersocial-light-mode>`_ page to install the theme or search "CounterSocial" in the Stylish directory for other options.
 | 
 **CounterSocial - Light Theme Using Stylus**
 
