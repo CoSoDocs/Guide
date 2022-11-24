@@ -1,7 +1,7 @@
 Getting Started
 ===== 
 
-Last Updated: November 14, 2022.  
+Last Updated: November 23, 2022.  
 
 Requirements
 ------------
@@ -81,7 +81,7 @@ Your CoSo profile is private by default. This means that your profile and posts 
 
 .. image:: _images/img_plpmode.jpg
 
-PRO users can enable their public landing page. Doing so allows your profile and posts to be shared outside of CoSo. To enable PLP, navigate to Edit Profile –> Appearance. Your public share link will be visible below the settings box. Once PLP is enabled, a badge will appear on your profile page, letting other users know you are open to having your content shared with the world.
+All users can enable their public landing page to allow their profile and posts to be viewed and shared outside of CoSo. To enable PLP, navigate to Edit Profile –> Appearance. Your public share link will be visible below the settings box. Once PLP is enabled, a badge will appear on your profile page to launch your PLP while also letting other users know you are open to having your content shared with the world.
 
 
 
