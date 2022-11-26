@@ -11,11 +11,6 @@ Site themeing is available for both desktop and official mobile app users. To to
 
 .. image:: _images/img_lightmode.jpg
 
-**Other Styles + Themes**
-
-| `Light Mode Theme using the Stylish Extention <https://userstyles.org/styles/254892/countersocial-light-mode>`_ 
-| `Light Mode Theme using the Stylus Extention <https://sethharrington.me/counter-social-light-theme/>`_
-
 
 PreCog Reading Mode (Beta)
 ------------
