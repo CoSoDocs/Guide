@@ -7,29 +7,13 @@ The community is aware that many CounterSocial features are not accessible to so
 
 Light/Dark Mode
 ------------
-Would you like to make the background white instead of black? Unfortunately, this can’t yet be done within CounterSocial, but there are multiple options for Chrome, Brave, and Firefox users via the 3rd party browser extensions below. There is no light mode feature for the mobile app at this time. 
+Site themeing is available for both desktop and official mobile app users. To toggle between a light and dark theme, click on *Edit Profile* -> *Preferences* and find the Site Theme section toward the bottom of the page. Remember to click the "Save Changes" button to activate your selection for a light mode or dark mode experience.
 
-Desktop Options
-^^^^^^^^^^
+.. image:: _images/img_lightmode
 
-**CounterSocial - Light Mode Theme Using Stylish**
-
-| 1. Install the Stylish Browser Extension for `Chrome <https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/stylish/>`_
-| 2. Visit the `Counter Social - Light Mode <https://userstyles.org/styles/254892/countersocial-light-mode>`_ page to install the theme or search "CounterSocial" in the Stylish directory for other options.
-| 
-**CounterSocial - Light Theme Using Stylus**
-
-| 1. Install the Stylus Browser Extension for `Chrome <https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/styl-us/>`_
-| 2. Visit https://sethharrington.me/counter-social-light-theme/ for theme installation instructions.
-| 
-**DarkReader Browser Extention**
-
-| 1. Install the DarkReader extenton for `Chrome <https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US>`_ or `Firefox <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>`_
-| 2. Using Dark Reader's "Light Mode" preset, start by adjusting the settings to +45 brightness, +30 contrast, and +50% sepia and adjust to your liking. `Click here <https://counter.social/@MrGoat/109246820688691888>`_ for more DarkReader configuration tips from @MrGoat. 
-
-Mobile Options
-^^^^^^^^^^
-If you are an iPhone user, navigate to Accessibility Options -> Display and Text Sizes and toggle on the option for "Classic Invert." That will force the CounterSocial app to adopt a light theme.  For Android devices, launch the Settings app and scroll down and select the "Accessibility" menu option under the System cluster. Click on the "Display" section and slide the toggle next to "Color Inversion."
+**Other Styles + Themes**
+| 1. `CounterSocial - Light Mode Theme using the Stylish Extention <https://userstyles.org/styles/254892/countersocial-light-mode>`_ 
+| 2. `CounterSocial - Light Mode Theme using the Stylus Extention <https://sethharrington.me/counter-social-light-theme/>`_
 
 
 PreCog Reading Mode (Beta)
