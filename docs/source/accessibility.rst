@@ -9,11 +9,11 @@ Light/Dark Mode
 ------------
 Site themeing is available for both desktop and official mobile app users. To toggle between a light and dark theme, click on *Edit Profile* -> *Preferences* and find the Site Theme section toward the bottom of the page. Remember to click the "Save Changes" button to activate your selection for a light mode or dark mode experience.
 
-.. image:: _images/img_lightmode
+.. image:: _images/img_lightmode.jpg
 
 **Other Styles + Themes**
-| 1. `CounterSocial - Light Mode Theme using the Stylish Extention <https://userstyles.org/styles/254892/countersocial-light-mode>`_ 
-| 2. `CounterSocial - Light Mode Theme using the Stylus Extention <https://sethharrington.me/counter-social-light-theme/>`_
+#.  `CounterSocial - Light Mode Theme using the Stylish Extention <https://userstyles.org/styles/254892/countersocial-light-mode>`_ 
+#.  `CounterSocial - Light Mode Theme using the Stylus Extention <https://sethharrington.me/counter-social-light-theme/>`_
 
 
 PreCog Reading Mode (Beta)
