@@ -7,7 +7,7 @@ The community is aware that many CounterSocial features are not accessible to so
 
 Light/Dark Mode
 ------------
-Site themeing is available for both desktop and official mobile app users. To toggle between a light and dark theme, click on *Edit Profile* -> *Preferences* and find the Site Theme section toward the bottom of the page. Remember to click the "Save Changes" button to activate your selection for a light mode or dark mode experience.
+Two site themse are available for both desktop and official mobile app users. To toggle between a light or dark style, click on *Edit Profile* -> *Preferences* and find the *Site Theme* section near the bottom of the page. Remember to click the "Save Changes" button to activate your selection for a light mode or dark mode experience.
 
 .. image:: _images/img_lightmode.jpg
 
