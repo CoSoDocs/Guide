@@ -41,7 +41,7 @@ You can find all preferences and settings by clicking on the “Edit Profile” 
 
 .. image:: _images/img_editprofile.jpg
 
-.. note:: Remember to scroll to the bottom of the page and click the “Save Changes” button after making any changes.
+.. note:: Remember to scroll to the bottom of the page and click the “Save Changes” or Check Mark icon after making any changes.
 
 
 Display Name
@@ -107,7 +107,7 @@ While the Directory is currently in development, select this box to be included 
 
 
 
-Profile Metadata
+Custom Profile Fields
 ^^^^^^^^^^^^^
 CoSo allows you to display up to 4 items in a table at the top of your bio. You can use these fields to display your location, pronouns, website/social links, or labels.
 
