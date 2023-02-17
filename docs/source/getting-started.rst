@@ -37,7 +37,7 @@ To switch from Advanced to Simplified mode, simply located the link in the right
 Setting Up Your Profile
 ------------
  
-You can find all preferences and settings by clicking on the “Edit Profile” link at the top of your profile page. You can access your profile page by clicking on your Display Name.
+You can find all preferences and settings by clicking on the “Edit Profile” link at the top of your profile page (Advanced Layout) or through the "Settings" link found in the right-side navigation column (Simplified Layout). There is also an "Edit Profile" button found on the top of your profile page in both modes. You can access your profile page by clicking on your Display Name.
 
 .. image:: _images/img_editprofile.jpg
 
