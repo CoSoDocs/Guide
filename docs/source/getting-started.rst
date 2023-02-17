@@ -1,7 +1,7 @@
 Getting Started
 ===== 
 
-Last Updated: November 23, 2022.  
+Last Updated: February 17, 2023.  
 
 Requirements
 ------------
@@ -23,6 +23,16 @@ Your username is fixed and cannot be changed following account activation. This 
 
 .. attention:: Following sign-up, you will receive an email from CounterSocial with instructions on activating your account. If you cannot locate that email, you may request a duplicate confirmation email by clicking “Didn’t receive confirmation instructions?” below the login field. 
 
+Choose Your Default Layout
+------------
+
+We understand that everyone uses social media in different ways and for different reasons, so we have added the ability to switch to different layouts. If you are looking for a similar user experience to what you are used to on other platforms, you can switch to a simplified, single-column layout at any time or stay with the default, advanced multi-column mode. 
+
+.. image:: _images/img_layoutoptions.jpg
+
+To switch from Advanced to Simplified mode, simply located the link in the right-column navigation bar and select "Switch to Simplified." You will find the link to switch back in a similar location in the new layout. 
+
+.. image:: _images/img_switchlayout.jpg
 
 Setting Up Your Profile
 ------------
