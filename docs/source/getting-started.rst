@@ -30,7 +30,7 @@ We understand that everyone uses social media in different ways and for differen
 
 .. image:: _images/img_layoutoptions.jpg
 
-To switch from Advanced to Simplified mode, simply located the link in the right-column navigation bar and select "Switch to Simplified." You will find the link to switch back in a similar location in the new layout. 
+To switch from Advanced to Simplified mode, locate the link in the right-column navigation section and select "Switch to Simplified Mode." You will find the link to switch back to Advance Mode in a similar location in the new layout. 
 
 .. image:: _images/img_switchlayout.jpg
 
