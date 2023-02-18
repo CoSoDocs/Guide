@@ -4,28 +4,32 @@ Posting Content - Simplified
 Last Updated: November 14, 2022. 
 
 The Post Box
-------------
-.. image:: _images/img_postbox.jpg
 
-The Post Box is in the left column on the desktop version or by pressing the blue pencil icon on the bottom right corner of your mobile device. The default character limit for text posts is 500 characters and you can include links, hashtags, polls, content warnings, and emojis. PRO users can adjust privacy preferences at the post level, as well as set an expiration date for a post to expire and self-destruct.
+If you have adopted the Simplified layout, click on the blue "post" button found at the top corner of the page. This will launch a pop-up window to compose your post. 
+
+------------
+.. image:: _images/img_postboxsimplified.jpg
+
+The default character limit for text posts is 500 characters and you can include links, hashtags, polls, content warnings, and emojis. PRO users can adjust privacy preferences at the post level.
 
 Responding to a Post
 ------------
 
-.. image:: _images/img_interactingwithposts.jpg
+.. image:: _images/img_interactingwithpostssimplified.jpg
 
-To **REPLY** to a post, click the left arrow at the bottom of the original post. Doing so will automatically open the post box to the left where you can type your reply. The @handle of the author of the post you are responding to will be pre-populated in the post box. If you are a PRO user, you can lock your response to the original post, and all subsequent replies in the thread after yours will also be locked. A locked post cannot be unlocked by another user’s reply. (see PRIVACY SETTINGS below)
+To **REPLY** to a post, click the left arrow at the bottom of the original post. Doing so will automatically open the post box where you can type your reply. The @handle of the author of the post you are responding to will be pre-populated. If you are a PRO user, you can lock your response to the original post, and all subsequent replies in the thread after yours will also be locked. A locked post cannot be unlocked by another user’s reply. (see PRIVACY SETTINGS below)
 
-The **BOOST** is the double-headed square arrow, and it mimics the other platforms’ “Retweet” or “Share” buttons for existing posts. Boosts are only shown to your followers, and do not post to the Firehose.
+The **BOOST** is the double-headed square arrow, and it mimics the other platforms’ “Retweet” or “Share” buttons for existing posts. Boosts are only shown to your followers, and do not appear in the Community Firehouse.
 
 The **FAVORITE** star is your way to acknowledge that you read the post. It means different things to different users, and the total number of favorites is not prioritized here. A record of your previous favorites is not viewable to either yourself or others through a separate list.
-The three dots at the bottom right of the post open to a flyout menu with additional response options. Of note, “Expand Status” will open the post in context of the thread in which it appears, if it is a reply to another post. This expanded status will open to the right in a new column. “Report” is another option on this menu and is your means of flagging a post that violates the TOS. 
+
+The **WORLD** icon allows you to open and expand the post to view the full thread of replies or to add your own. “Report” is another option on this menu and is your means of flagging a post that violates the TOS. 
 
 To **THREAD** a series of posts to communicate a longer message, simply REPLY to your preceding post.
 
-Additional options can be found by clicking the three dots at the bottom of any post, including a option to mute any threads you are included in but no longer want to be notified of new responses. You can also access moderation tools including the Mute, Block, and Report funtions.  
+Additional options can be found by clicking the arrow icon found in the top right corner of any post, including a option to mute any threads you are included in but no longer want to be notified of new responses. You can also access moderation tools including the Mute, Block, and Report funtions.  
 
-.. image:: _images/img_morepostoptions.jpg
+.. image:: _images/img_morepostoptionssimplified.jpg
 
  
 Links & Link Sanitizer
