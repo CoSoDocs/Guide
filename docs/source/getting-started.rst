@@ -43,7 +43,7 @@ Two site themes are available for both desktop and official mobile app users. If
 
 
 
-Setting Up Your Profile
+Set Up Your Profile
 ------------
  
 You can find all preferences and settings by clicking on the “Edit Profile” link at the top of your profile page (Advanced Layout) or through the "Settings" link found in the right-side navigation column (Simplified Layout). There is also an "Edit Profile" button found on the top of your profile page in both modes. You can access your profile page by clicking on your Display Name.
@@ -107,6 +107,15 @@ All users can enable their public landing page to allow their profile and posts 
 Lock Account
 ^^^^^^^^^^^^^
 Check the “Lock account” box to make your profile unviewable to all  CoSo users except those you have accepted as friends. If this box is checked, you will need to manually approve all friend requests. Follow requests will appear on your profile page. To approve, click the three dots to the right of your Display Name for a flyout menu and choose Follow Requests to see who is asking. You can click through to their profiles before choosing to accept or reject the request. No harm no foul, follower counts are not worth a hill of beans here.
+
+
+Automatic Direct Message Scrubber (ADMS)
+^^^^^^^^^^^^^
+PRO users can enable ADMS to automatically scrub any direct message YOU SENT after 24 hours. You can also enable this feature for any direct message SENT TO YOU by a 3rd party, permanently removing both sides of the conversation from all devices. Once deleted, they can not be recovered (not even by CoSo Admins). 
+
+To activate ADMS, navigate to your settings and find the option in the Preferences section (Advanced Layout Users) or the General section (Simplified Layout users). 
+
+.. note:: You can exclude messages from being scrubbed by typing "/noscrub" (without quotes) anywhere in the post. This will turn the feature off for only the intended message. 
 
 
 
