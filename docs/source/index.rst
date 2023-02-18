@@ -26,8 +26,10 @@ Table of Contents
 
    transparency
    getting-started
-   posting-content
-   browsing-and-curation
+   posting-content-advanced
+   posting-content-simplified
+   browsing-and-curation-advanced
+   browsing-and-curation-simplified
    accessibility
    pro-features
    promoting-coso
