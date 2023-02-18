@@ -27,7 +27,7 @@ The **WORLD** icon allows you to open and expand the post to view the full threa
 
 To **THREAD** a series of posts to communicate a longer message, simply REPLY to your preceding post.
 
-Additional options can be found by clicking the arrow icon found in the top right corner of any post, including a option to mute any threads you are included in but no longer want to be notified of new responses. You can also access moderation tools including the Mute, Block, and Report funtions.  
+Additional options can be found by clicking the arrow icon found in the top right corner of any post, including a option to mute any threads you are included in but no longer want to be notified of new responses. You can also use this menu to "pin" one of your own posts to the top of your feed and/or access moderation tools for other accounts including Mute, Block, and Report funtions.  
 
 .. image:: _images/img_morepostoptionssimplified.jpg
 
@@ -73,12 +73,14 @@ Sharing Non-Supported File Types
 ^^^^^^^^^^^^^
 .. image:: _images/img_countershare.jpg
 
-PRO users can utilize *CounterShare*, CoSo’s integrated, secure, ephemeral 500TB file sharing solution. It’s at-rest encrypted, and your files can be time-limited or restricted to a specific download count. Files can be shared with ANYONE (whether a PRO user or not). You can access file sharing by visiting https://share.counter.social, or by clicking on the CounterShare graphic at the bottom of your right-side Navigation column.   
+PRO users can utilize *CounterShare*, CoSo’s integrated, secure, ephemeral 500TB file sharing solution. It’s at-rest encrypted, and your files can be time-limited or restricted to a specific download count. Files can be shared with ANYONE (whether a PRO user or not). You can access file sharing by visiting https://share.counter.social, or by clicking on the CoSo share link found in the right-side navigation menu. 
 
 
 Editing Media
 ^^^^^^^^^^^^^
-Once attached, hover over the image thumbnail and click the “Change Preview” link to adjust the image preview. Please add a text description for the visually impaired by clicking on the photo where it says “Describe for the visually impaired”. The description will appear for users accessing CoSo via a screen reader or other similar technology.
+Once your media file is attached to your post, click the pencil icon to add a caption or text description for the visually impaired. The description will appear for users accessing CoSo via a screen reader or other similar technology.
+
+.. image:: _images/img_imagesettingssimplified.jpg
 
 If your image, GIF, or video is not safe for work , contains mature, adult or graphic content, or may negatively impact those with post traumatic stress disorder or photosensitivity issues, please click on the eye icon to mark your media as sensitive. To add a content warning to your post, click on the “CW” icon (doing so will also mask any photographs) 
 
@@ -88,18 +90,13 @@ If your image, GIF, or video is not safe for work , contains mature, adult or gr
 
 Setting Your Media Preferences
 ^^^^^^^^^^^^^
-Navigate to Edit Profile –> Preferences and scroll to the Media Display section to configure defaults for how you want media to display in your personal feeds. You can automatically hide all media marked as “sensitive,” choose if animated GIFs auto-play or even reduce their motion.
-
-
-.. image:: _images/img_mediasettings.jpg
-
-
+Navigate to the Media tab inside your settings to configure the defaults for how  you want media to display in your personal feeds. You can automatically hide all media marked as “sensitive,” choose if animated GIFs auto-play or even reduce their motion.
 
 Post Privacy Settings
 ------------
 Once you have configured your post, PRO users can set the privacy at the post draft level, including unlisted, private, and direct message posting. PRO users can also visit Edit Profile –> Preferences to set the default privacy level for all future posts.
 
-.. image:: _images/img_postprivacy.jpg
+.. image:: _images/img_postprivacysimplified.jpg
 
 **Public** - Posts appear in the community firehose, your friend’s timelines, and on your profile page. If your `Public Landing Page <https://coso-userguide.readthedocs.io/en/latest/getting-started.html#public-landing-page-plp>`_  is enabled, these posts are visible to the general public and are indexed by search engines. This is the default setting for regular users. 
 
@@ -109,14 +106,5 @@ Once you have configured your post, PRO users can set the privacy at the post dr
 
 **Direct Message (PRO Feature)** - Visible to only the user(s) mentioned (@) in the post. The recipient will receive a notification. All DMs are encrypted and cannot be accessed by any other party, including The Jester, unless they are mentioned. Initiating a DM is a PRO feature, which helps eliminate DM spam, scams, and phishing attempts. Recipients of DMs do not need to be a PRO account. If you are a regular user and wish to have a private conversation with a PRO user, simply ask them to initiate the DM from their side.
 
-
-
-Editing Existing Posts
-------------
-Rejoice! A version of the “edit” button has arrived. After posting, if you need to make changes to your post, click the three dots in the bottom right corner and select “Delete & Redraft” to make changes and repost. Keep in mind, all boosts and favorites will be reset (deleted), and any original replies will not be linked to the new version. For instructions on editing a photo to change its orientation, see the `Editing Media <https://coso-userguide.readthedocs.io/en/latest/posting-content.html#editing-media>`_ section, above.
-
-.. image:: _images/img_personalpostoptions.jpg
-
-You can also delete the post completely, or select “Pin on Profile” to make it stay at the top of your profile page. You may have up to 5 pinned posts on your profile.
 
 .. attention:: Have questions or need help? Follow @CoSoTips or tag any post with #help to get support from the community. 
