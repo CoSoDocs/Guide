@@ -3,7 +3,7 @@ Browsing & Curation - Advanced
 
 Last Updated: November 14, 2022. 
 
-The Desktop Layout
+The Advanced Desktop Layout
 ------------
 .. image:: _images/img_desktoplayout.jpg
 
