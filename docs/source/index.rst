@@ -28,7 +28,8 @@ Table of Contents
    getting-started
    posting-content-advanced
    posting-content-simplified
-   browsing-and-curation
+   browsing-and-curation-advanced
+   browsing-and-curation-simplified
    accessibility
    pro-features
    promoting-coso
