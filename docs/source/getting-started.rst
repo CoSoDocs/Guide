@@ -17,7 +17,7 @@ Creating Your Account
 **To sign up for a free account visit:**
 
 | Desktop/Browser Version: https://counter.social
-| Mobile App Downloads: https://smarturl.it/countersocialapp
+| Mobile App Downloads: `iPhone <https://apps.apple.com/us/app/countersocial/id1543783578>`_  or `Android <https://play.google.com/store/apps/details?id=counter.social.android>`_ 
 
 Your username is fixed and cannot be changed following account activation. This is a security feature to prevent bots and trolls from manipulating the platform. The ONLY way to change your username is to delete your account and create another. Note that once an account is deleted, all traces of the account are permanently removed and cannot be recovered, even by the administrator. The username cannot be reused as a security precaution to prevent others hijacking your name and posing as you.
 
