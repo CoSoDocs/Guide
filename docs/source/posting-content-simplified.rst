@@ -1,4 +1,4 @@
-Posting Content
+Posting Content - Simplified Layout
 =====
 
 Last Updated: November 14, 2022. 
