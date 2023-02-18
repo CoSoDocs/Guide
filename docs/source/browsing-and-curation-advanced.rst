@@ -1,7 +1,7 @@
 Browsing & Curation - Advanced
 =====
 
-Last Updated: November 14, 2022. 
+Last Updated: February 18, 2023 
 
 The Advanced Desktop Layout
 ------------

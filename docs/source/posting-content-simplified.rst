@@ -1,7 +1,7 @@
 Posting Content - Simplified
 =====
 
-Last Updated: November 14, 2022. 
+Last Updated: February 18, 2023 
 
 The Post Box
 

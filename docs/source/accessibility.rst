@@ -1,7 +1,7 @@
 Accessibility Features
 =====
 
-Last Updated: November 13, 2022.  
+Last Updated: February 18, 2023  
 
 The community is aware that many CounterSocial features are not accessible to some users, and we are committed to making improvements as fast as resources allow. While we work to evolve the platform to accommodate all who wish to participate, below are some features that may help in the meantime. 
 
@@ -9,7 +9,7 @@ Light/Dark Mode
 ------------
 Two site themes are available for both desktop and official mobile app users. To toggle between a light or dark style, click on *Edit Profile* -> *Preferences* and find the *Site Theme* section near the bottom of the page. Remember to click the "Save Changes" button to activate your selection for a light mode or dark mode experience.
 
-.. image:: _images/img_lightmode.jpg
+.. image:: _images/img_lightmodesettings.jpg
 
 
 PreCog Reading Mode (Beta)
