@@ -26,7 +26,8 @@ Table of Contents
 
    transparency
    getting-started
-   posting-content
+   posting-content-advanced
+   posting-content-simplified
    browsing-and-curation
    accessibility
    pro-features
