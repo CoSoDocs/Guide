@@ -1,4 +1,4 @@
-Posting Content - Advanced Layout
+Posting Content - Advanced
 =====
 
 Last Updated: November 14, 2022. 
