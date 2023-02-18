@@ -34,6 +34,15 @@ To switch from Advanced to Simplified mode, locate the link in the right-column 
 
 .. image:: _images/img_switchlayout.jpg
 
+
+Choose Your Theme
+------------
+Two site themes are available for both desktop and official mobile app users. If you are using the advanced layout, you'll find this setting by clicking on "Edit Profile" link below your screen name and navigating to the "Preferences" section. For simplified mode users, click on the "settings" link found on the right side of the page and click on the "Appearance" tab. Remember to click the “Save Changes” button or check mark icon at the bottom of the page to activate your selection.
+
+.. image:: _images/img_lightmodesettings.jpg
+
+
+
 Setting Up Your Profile
 ------------
  
